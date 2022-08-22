@@ -16,7 +16,9 @@ This webinar is ideal for merchants who want to get real-time access to all syst
 The webinar is broken out into two parts.
 
 ## Part 1
+
 >[!VIDEO](https://video.tv.adobe.com/v/345145/?quality=12&learn=on)
 
 ## Part 2
+
 >[!VIDEO](https://video.tv.adobe.com/v/345146/?quality=12&learn=on)
