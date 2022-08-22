@@ -7,12 +7,8 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 # Adobe Commerce Events {#events}
 
 + [Overview](overview.md)
-
-<!--
-
-Articles must be added to this TOC file in order to render.
-
-Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
-
-An article link CANNOT be used as a section heading.
--->
++ 2022 {#2022}
+    + [Roadmap](2022/roadmap.md)
+    + [New Relic Masterclass](2022/new-relic.md)
+    + [Site Wide Analysis Tool](2022/analysis-tool.md)
+    + [Upgrading to 2.4.4](2022/upgrade.md)
