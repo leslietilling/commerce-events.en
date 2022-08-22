@@ -13,4 +13,10 @@ thumbnail: 345146.jpeg
 
 This webinar is ideal for merchants who want to get real-time access to all system insights, proactive steps to resolve any Adobe Commerce site problems and monitor overall site health.
 
+The webinar is broken out into two parts.
+
+## Part 1
+>[!VIDEO](https://video.tv.adobe.com/v/345145/?quality=12&learn=on)
+
+## Part 2
 >[!VIDEO](https://video.tv.adobe.com/v/345146/?quality=12&learn=on)
