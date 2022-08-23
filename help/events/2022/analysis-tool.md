@@ -7,8 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 kt: 10710
 thumbnail: 345146.jpeg
+exl-id: a28a5ba0-fff3-454d-9ec3-725064c12f20
 ---
-
 # Adobe Commerce Site Wide Analysis Tool
 
 This webinar is ideal for merchants who want to get real-time access to all system insights, proactive steps to resolve any Adobe Commerce site problems and monitor overall site health.

@@ -1,8 +1,8 @@
 ---
 title: Adobe Commerce Events overview
 description: Adobe Commerce Events is a video library where experts and peers have shared their thoughts and ideas on how to Commerce.
+exl-id: b7f0e7be-c7b1-4c45-bb83-8f89c9b1ec3e
 ---
-
 # Commerce Events overview
 
 The Commerce Webinar Series covers a wide range of topics from best practices to product roadmap to help you maximize your investment in the platform.
