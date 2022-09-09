@@ -40,11 +40,11 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/upgrade.html">
-      <img alt="Get the most out of the Enterprise Workflow Management" src="./assets/new-relic.png" />
+      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/upgrade.html">
-        <strong>Get the most out of the Enterprise Workflow Management</strong>
+        <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>
     <p>
