@@ -5,7 +5,11 @@ exl-id: b7f0e7be-c7b1-4c45-bb83-8f89c9b1ec3e
 ---
 # Commerce Events
 
-The Commerce Webinar Series covers a wide range of topics from best practices to product roadmap to help you maximize your investment in the platform.
+
+
+Welcome to the Adobe Commerce events recordings. Using these resources combined with the Adobe Commerce [documentation](https://experienceleague.adobe.com/docs/commerce.html) and [tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html), you will gain a better understanding how to use Adobe Commerce and Magento Open Source to support your ecommerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
+
+You will learn to build multi-channel commerce experiences for B2B and B2C customers on a single platform. From catalog to payment to fulfillment, our future-proof technology gives you a commerce platform that's endlessly flexible, extensible, and scalable.
 
 <!---
 <table>
