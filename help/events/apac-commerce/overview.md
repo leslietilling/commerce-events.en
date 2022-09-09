@@ -14,7 +14,7 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/analysis-tool.html">
-      <img alt="Adobe Commerce Site Wide Analysis Tool" src="./../assets/analysis-tool.png" />
+      <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/analysis-tool.html">
@@ -27,7 +27,7 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/new-relic.html">
-      <img alt="New Relic Masterclass" src="./../assets/new-relic.png" />
+      <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/new-relic.html">
@@ -40,7 +40,7 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/upgrade.html">
-      <img alt="Get the most out of the Enterprise Workflow Management" src="./../assets/new-relic.png" />
+      <img alt="Get the most out of the Enterprise Workflow Management" src="./assets/new-relic.png" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/commerce-events/events/apac-commerce/2022/upgrade.html">
