@@ -7,7 +7,6 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 kt: 10710
 thumbnail: 347334.jpeg
-exl-id: a28a5ba0-fff3-454d-9ec3-725064c12f20
 ---
 # Adobe Commerce Site Wide Analysis Tool
 

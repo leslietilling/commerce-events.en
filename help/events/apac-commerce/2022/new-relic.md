@@ -7,7 +7,6 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 kt: 10712
 thumbnail: 345148.jpeg
-exl-id: 28bdda13-dbbb-4069-ba22-513d93bf1461
 ---
 # New Relic Masterclass - Take Control of your Infrastructure
 

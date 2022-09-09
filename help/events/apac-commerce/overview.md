@@ -1,21 +1,14 @@
 ---
-title: Adobe Commerce Site Wide Analysis Tool
-description: Site-Wide Analysis ToolThis webinar is ideal for merchants who want to get real-time access to all system insights, proactive steps to resolve any Adobe Commerce site problems and monitor overall site health.
-solution: Commerce
-topic: Commerce
-role: Leader, Architect, Developer, Data Architect, Admin, User
-level: Beginner
-kt: 10710
-thumbnail: 345146.jpeg
-exl-id: a28a5ba0-fff3-454d-9ec3-725064c12f20
+title: APAC Commerce Webinar Series
+description: The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.
 ---
+
+
 # APAC Commerce Webinar Series
 
 The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends. Hear from various product experts across the business and join live for an opportunity to ask questions and engage with the team directly. This series will help you to be successful on, and maximize your investment in the Adobe Commerce platform.
 
 ## What's New
-
-
 
 <table>
 <tr>
