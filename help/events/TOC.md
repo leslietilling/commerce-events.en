@@ -13,6 +13,15 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
       + [New Relic Masterclass](apac-commerce/2022/new-relic.md)
       + [Site Wide Analysis Tool](apac-commerce/2022/analysis-tool.md)
       + [Upgrading to 2.4.4](apac-commerce/2022/upgrade.md)
++ MBI Events {#mbi}
+  + 2022 {#2022}
+    + [Managing Data Sets in MBI](mbi-webinars/2021-22/manage-data-sets.md)
+  + 2021 {#2021}
+    + [Getting Started with MBI](mbi-webinars/2021-22/getting-started.md)
+    + [Optimize Your MBI Data Warehouse](mbi-webinars/2021-22/optimize-data-warehouse.md)
+    + [MBI Dashboards Deep Dive](mbi-webinars/2021-22/dashboards-deep-dive.md)
+    + [Holiday Readiness with MBI](mbi-webinars/2021-22/holiday-readiness.md)
+    + [MBI - Ask an Expert](mbi-webinars/2021-22/ask-expert.md)
   
 <!---+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
