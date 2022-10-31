@@ -10,8 +10,10 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 + APAC Commerce Events {#apac-commerce}
   + [Overview](apac-commerce/overview.md)
   + 2022 {#2022}
+      + [Holiday Readiness 2022](apac-commerce/2022/holiday.md)
       + [New Relic Masterclass](apac-commerce/2022/new-relic.md)
       + [Site Wide Analysis Tool](apac-commerce/2022/analysis-tool.md)
+      + [Transforming data into value with MBI](apac-commerce/2022/mbi.md)
       + [Upgrading to 2.4.4](apac-commerce/2022/upgrade.md)
 + MBI Events {#mbi}
   + 2022 {#2022}
