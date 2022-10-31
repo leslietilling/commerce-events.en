@@ -20,3 +20,5 @@ You will hear from Jason Ford, Manager Commerce Solutions Consulting APAC, and S
  * Surging your infrastructure for optimal performance
 
 The peak season is expected to be strong in 2022, with eCommerce continuing to be the go-to channel for all shoppers. Using techniques shared during this session, you and your team can successfully and effectively promote your goods and/or services on your site.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3410542/?quality=12&learn=on)
