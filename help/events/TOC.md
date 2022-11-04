@@ -7,6 +7,8 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 # Adobe Commerce Events {#events}
 
 + [Overview](overview.md)
++ Release Roadmap Highlights {#release-roadmap}
+  + [Release Roadmap Highlights](release-highlights.md)
 + APAC Commerce Events {#apac-commerce}
   + [Overview](apac-commerce/overview.md)
   + 2022 {#2022}
