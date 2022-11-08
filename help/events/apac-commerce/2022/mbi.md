@@ -8,8 +8,8 @@ level: Beginner
 last-substantial-update: 2022-10-31
 kt: 11371
 thumbnail: 3410646.jpeg
+exl-id: 251cb756-2ee2-4ce5-ad97-0dd73a43b4f2
 ---
-
 # Transforming data into value with MBI
 
 By now most businesses understand how important it is to collect and analyze data to enhance a customer's shopping experience and inform strategic business decisions. In order to harness your data's true value, you need the ability to centralize and manage data which can sometimes be a challenge.

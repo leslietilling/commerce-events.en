@@ -7,8 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 last-substantial-update: 2022-10-31
 kt: 11355
+exl-id: 5bdeada4-1dd0-4b9b-a5fb-854ae9e8b659
 ---
-
 # Holiday Readiness 2022
 
 Preparation is key to success and in this webinar we will walk you through the best practices for leveraging Adobe Commerce to maximize sales and performance over this important trading period (or any other sales event your business may experience throughout the year).
