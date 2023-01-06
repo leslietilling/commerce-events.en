@@ -1,5 +1,5 @@
 ---
-title: - Commerce and Coffee - Peak Season Preparation
+title: Commerce and Coffee - Peak Season Preparation
 description: This session digs into strategies, tips and best practices for your Commerce site during peak season. We discuss 2022 Holiday expectations, mobile commerce, promotion and checkout options as well as the importance of marketing to help drive a successful peak season. The presentation and demo are accompanied by a live Q&A with Corey Gelato.
 solution: Commerce
 topic: Commerce
