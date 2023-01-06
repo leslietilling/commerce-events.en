@@ -1,0 +1,17 @@
+---
+title: Commerce & Coffee - Peak Season 'Ask Me Anything'
+description: This 'Ask Me Anything' session touches upon adapting to last-minute changes for your Commerce site during peak season. We discuss 2022 Holiday expectations, last minute promotions, checkout options and marketing strategies to help drive a successful peak season. The presentation and demo are accompanied by a live Q&A with Corey Gelato.
+solution: Commerce
+topic: Commerce
+role: Admin, Leader, User
+level: Beginner, Intermediate, Experienced
+doc-type: Event
+last-substantial-update: 2023-01-06
+kt: 11605
+thumbnail: kt-11605.jpeg
+---
+
+# Commerce & Coffee - Peak Season 'Ask Me Anything'
+
+This 'Ask Me Anything' session touches upon adapting to last-minute changes for your Commerce site during peak season. We discuss 2022 Holiday expectations, last minute promotions, checkout options and marketing strategies to help drive a successful peak season. The presentation and demo are accompanied by a live Q&A with Corey Gelato.
+

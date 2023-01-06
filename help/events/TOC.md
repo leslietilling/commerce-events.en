@@ -9,6 +9,15 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 + [Overview](overview.md)
 + Release Roadmap Highlights {#release-roadmap}
   + [Release Roadmap Highlights](release-highlights.md)
++ Commerce and Coffee {#commerce-and-coffee}
+  + [Overview](commerce-and-coffee/overview.md)
+  + 2022 {#2022}
+    + [AI and Automation](commerce-and-coffee/2022/ai-and-automation.md)
+    + [E-Commerce Trends](commerce-and-coffee/2022/ecommerce-trends.md)
+    + [Holiday Retrospective](commerce-and-coffee/2022/holiday.md)
+    + [Peak Season Preparation](commerce-and-coffee/2022/peak-season-prep.md)
+    + [Peak Season Ask Me Anything](commerce-and-coffee/2022/peak-season-ask-anything.md)
+    + [Personalization](commerce-and-coffee/2022/personalization.md)
 + APAC Commerce Events {#apac-commerce}
   + [Overview](apac-commerce/overview.md)
   + 2022 {#2022}
