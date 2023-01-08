@@ -4,8 +4,10 @@ description: Explore the MBI recorded webinars, which cover a wide range of topi
 ---
 # MBI Webinars
 
-The MBI webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using MBI to its fullest potential.
-Attendees from all geographies can join the events live to understand the product better and to get their questions on MBI functionality answered directly.
+The MBI webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using MBI to its fullest potential. 
+
+Attendees from all geographies can join the events live to understand the product better and to get their questions on MBI functionality answered directly. 
+
 The topics are repeated occasionally to accommodate any new questions that the customers may ask.
 
 ## Staff picks
