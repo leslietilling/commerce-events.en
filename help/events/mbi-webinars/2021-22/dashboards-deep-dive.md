@@ -27,5 +27,5 @@ Take a guided tour of the four dashboards included at setup with every MBI accou
 >
 >If you are new to MBI, the [Getting Started video series](https://experienceleagueadobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) also provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
-[Dashboards](https://docs.magento.com/mbi/data-user/dashboards/ess-dashboards.html)
-[Exporting Chart Data](https://docs.magento.com/mbi/data-user/export-data/exp-chart-dash.html)
+[Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[Exporting Chart Data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

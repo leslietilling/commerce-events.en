@@ -32,5 +32,5 @@ Use your eCommerce data for success during the holiday season. This webinar high
 >
 >If you are new to MBI, the [Getting Started video series](https://experienceleagueadobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
-[MBI User Guide](https://docs.magento.com/mbi/)
-[MBI Support](https://support.magento.com/hc/en-us/articles/360016730811)s
+[MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+[MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

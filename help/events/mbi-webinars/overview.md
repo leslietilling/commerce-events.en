@@ -15,6 +15,32 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <table>
 <tr>
   <td>
+    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html">
+      <img alt="Getting Started with MBI" src="./assets/getting-started-mbi.png" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html">
+        <strong>Getting Started with MBI</strong>
+      </a>
+    </div>
+    <p>
+    <em>Learn about the core functionality of MBI directly from the Commerce Product team with a deep dive into pre-configured dashboards and customization options available.</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html">
+      <img alt="Managing Data Sets in MBI" src="./assets/managing-data-sets-mbi.png" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html">
+        <strong>Managing Data Sets in MBI</strong>
+      </a>
+    </div>
+    <p>
+    <em>Learn about some of the powerful features of the MBI Data Warehouse Manager, directly from the Adobe Commerce Product team. Move beyond basic report building and learn how to do more with your data.</em>
+    <p>
+  </td>
+   <td>
     <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html">
       <img alt="Optimize Your MBI Data Warehouse" src="./assets/optimize-data-warehouse.png" />
     </a>
@@ -25,32 +51,6 @@ The topics are repeated occasionally to accommodate any new questions that the c
     </div>
     <p>
     <em>Using the Data Warehouse Manager, you can manage table and column sync settings, drill down into a table's schema, and create calculated columns to use in reports.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html?lang=en#session-1">
-      <img alt="MBI - Ask an Expert, session 1" src="./assets/ask-expert-1.png" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html?lang=en#session-1">
-        <strong>MBI - Ask an Expert, Session 1</strong>
-      </a>
-    </div>
-    <p>
-    <em>Watch this recorded webinar for a deep dive with the MBI product team, including business transformation through intelligent data.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html?lang=en#session-2">
-      <img alt="MBI - Ask an Expert, session 2" src="./assets/ask-expert-2.png" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html?lang=en#session-2">
-        <strong>MBI - Ask an Expert, Session 2</strong>
-      </a>
-    </div>
-    <p>
-    <em>Watch this recorded webinar for another deep dive with the MBI product team, including SQL optimization using common table expressions and best practices in SQL-based reports.</em>
     <p>
   </td>
 </tr>
