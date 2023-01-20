@@ -23,7 +23,7 @@ During this recorded webinar, you learn how to calculate the return on investmen
 
 >[!TIP]
 >
->If you are new to MBI, the [Getting Started video series](https://experienceleagueadobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 [A tour of the Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
 [Connect Your Data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

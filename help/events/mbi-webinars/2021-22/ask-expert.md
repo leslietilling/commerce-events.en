@@ -39,7 +39,7 @@ _Ask an Expert_ is comprised of two sessions:
 
 >[!TIP]
 >
->If you are new to MBI, the [Getting Started video series](https://experienceleagueadobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 - [MBI Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
 - [MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

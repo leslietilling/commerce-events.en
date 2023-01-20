@@ -33,7 +33,7 @@ In this webinar:
 
 >[!TIP]
 >
->If you are new to MBI, the [Getting Started video series](https://experienceleagueadobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 [Optimizing Your Database for Analysis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [Recommended Data Dimensions for Segmentation and Filtering](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
