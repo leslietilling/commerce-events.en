@@ -2,6 +2,7 @@
 title: Holiday Readiness with MBI
 description: Watch this webinar to learn how to use your eCommerce data for success during the holiday season.
 landing-page-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
+short-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
 kt: 10409
 solution: Commerce,Magento Business Intelligence
 role: Leader, User, Data Architect

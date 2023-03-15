@@ -2,6 +2,7 @@
 title: Manage Data Sets in MBI
 description: Watch this webinar to learn about some of the powerful features of the MBI Data Warehouse Manager.
 landing-page-description: Watch this webinar to learn about some of the powerful features of the MBI Data Warehouse Manager.
+short-description: Watch this webinar to learn about some of the powerful features of the MBI Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect

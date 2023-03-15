@@ -2,6 +2,7 @@
 title: Optimize Your MBI Data Warehouse
 description: Watch this webinar to learn more about Data Warehouse Manager.
 landing-page-description: Watch this recorded webinar to
+short-description: Watch this recorded webinar to
 kt: 10403
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect

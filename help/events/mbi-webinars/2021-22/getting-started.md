@@ -2,6 +2,7 @@
 title: Getting Started with MBI
 description: Watch this webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
 landing-page-description: Watch this recorded webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
+short-description: Watch this recorded webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
 kt: 10408
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect

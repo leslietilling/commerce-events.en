@@ -2,6 +2,7 @@
 title: MBI - Ask an Expert
 description: Watch these recorded webinars for a deep dive with the MBI product team, including business transformation through intelligent data.
 landing-page-description: Watch these recorded webinars for a deep dive with the MBI product team, including business transformation through intelligent data.
+short-description: Watch these recorded webinars for a deep dive with the MBI product team, including business transformation through intelligent data.
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect

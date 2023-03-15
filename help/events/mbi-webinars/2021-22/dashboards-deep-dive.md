@@ -2,6 +2,7 @@
 title: MBI Dashboards Deep Dive
 description: Watch this webinar for a guided tour of the four dashboards included at setup with every MBI account.
 landing-page-description: Watch this recorded webinar for a guided tour of the four dashboards included at setup with every MBI account.
+short-description: Watch this recorded webinar for a guided tour of the four dashboards included at setup with every MBI account.
 kt: 10496
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
