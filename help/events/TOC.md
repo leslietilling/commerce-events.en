@@ -11,6 +11,8 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
   + [Release Roadmap Highlights](release-highlights.md)
 + Commerce and Coffee {#commerce-and-coffee}
   + [Overview](commerce-and-coffee/overview.md)
+  + 2023 {#2023}
+    + [Organic Growth](commerce-and-coffee/2023/organic-growth.md)
   + 2022 {#2022}
     + [AI and Automation](commerce-and-coffee/2022/ai-and-automation.md)
     + [E-Commerce Trends](commerce-and-coffee/2022/ecommerce-trends.md)
