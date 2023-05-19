@@ -7,6 +7,7 @@ kt: 10410
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
+last-substantial-update: 2023-05-19
 thumbnail: 344680.jpeg
 exl-id: af06f551-e04a-4563-97bf-0daa5dfb8225
 ---
